@@ -18,5 +18,14 @@
 
 ## Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=storres21&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=storres21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api?username=storres21&show_icons=true&hide_border=true&rank_icon=github"/>
+  </a>
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storres21&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=storres21&theme=transparent&hide_border=true"/>
+  </a>
+</div>
