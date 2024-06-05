@@ -1,10 +1,10 @@
 # Sofia Torres Ramírez - Artificial intelligence intern
 ### 4th year Systems & Computing Engineering student at Universidad de Los Andes, Colombia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Artificial intelligence
+- 🌱 I’m currently learning R, Pytorch, TensorFlow and Keras
 
-- 📫 How to reach me: **s.torres21@uniandes.edu.co**
+- 📫 How to reach me: **s.torresr20@gmail.com**
 
 ## Skills:
 
